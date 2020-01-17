@@ -1,55 +1,45 @@
-## Your Name
+## Jack Overton
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what exictes you about tech.
+After leaving college I feel into the family trade, (Stonemasonry) 7 years later I felt that I wanted a new challenge. I looked into Makers and attended a couple of events. Since that it always been in my mind that I wanted to become a developer since. Seeing what could be achieved in such little time inspired me.
 
 ## Skills
 
-Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
+Attention to detail - I have always had this quality before I started work, but during work, this grew even more. I would always be giving Memorials quality control checks before and after fixing them in the cemetery's to make sure it was perfect for the customer.
 
-#### This Skill
+Team player - Having worked at a big company it's important to be able to speak and communicate effectively. This could be actively listening to the members about their suggestions on the tasks ahead. Also, the ability to work with different members each day helped me learn more, as I picked up skills from each member. This shows my adaptability in the workplace.
 
-- Experience
-- Achievements
-- Evidence
+Commitment - I have worked 6 days a week for the past 4 years, in doing so this shows my enthusiasm and my work ethic towards getting the job done. 
 
-#### Another Skill
+Working under pressure - I can work under pressure as many of a time have I had to get the work done by a closing deadline date. An example of this is over the busy periods an example Christmas being one of them and getting all the work done before Christmas day. 
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (January 2020 to April 2020)
 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+Independent learning
+problem-solving
+OOP, TDD, MVC, DDD
+Agile/XP
+Ruby, Rails, JavaScript
+RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+#### Havering College (2011 - 2013)
+
+Btec Communication  & Employability Skills for IT  (Merit)
+This includled a module about Cisco Exploration Network Fundamentals   
+
+ICT Double Applied A2   Practioners                ( CD  )
+
+
 
 #### Any other qualifications
 
-That in some arguable way make you a better software developer or well-rounded person
-
-## Experience
-
-**Company Name** (start_date to end_date)    
-*Your job title*  
-- Any experience relevent to software development
-
-**Company Name** (start_date to end_date)   
-*Your job title*  
-- Any experience relevent to software development
+Jack Petchey award for tennis - The money I received for this I decided to put it towards getting clothing with our clubs name on the back for match days and practices.
 
 ## Hobbies
+Skiing 
+Weightlifting - Helpful when it comes to moving things in the office 
+Football - Always looking for players for 7s side  
 
-Any cool stuff that makes you a super part of a software development team
