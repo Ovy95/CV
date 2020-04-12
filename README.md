@@ -1,12 +1,13 @@
 ## Jack Overton
 
-After leaving college I feel into the family trade, (Stonemasonry) 7 years later I felt that I wanted a new challenge. I looked into Makers and attended a couple of events. Since that it always been in my mind that I wanted to become a developer since. Seeing what could be achieved in such little time inspired me.
+After leaving college I fell into the family trade, (Stonemasonry) 7 years later I felt that I wanted a new challenge. I looked into Makers and attended a couple of events. Since then it has always been in my mind that I wanted to become a developer. Seeing what could be achieved in such little time inspired me. I started learning to code, in my spare time out of work, making simple programs following tutorials, since then I have been hooked. I really enjoy problem solving so they both went hand in hand.
 
 ## Skills
 
 Attention to detail - I have always had this quality before I started work, but during work, this grew even more. I would always be giving Memorials quality control checks before and after fixing them in the cemetery's to make sure it was perfect for the customer.
 
-Team player - Having worked at a big company it's important to be able to speak and communicate effectively. This could be actively listening to the members about their suggestions on the tasks ahead. Also, the ability to work with different members each day helped me learn more, as I picked up skills from each member. This shows my adaptability in the workplace.
+Team player - Having worked at a big company it's important to be able to speak and communicate effectively. This could be actively listening to the members about their suggestions on the tasks ahead. Also, the ability to work with different members each day helped me learn more, as I picked up more skills from each member and share on that knowledge with others.
+ Working in different teams gave me the benefit of being able to ability commitcate effectively with different types of people in the work force. 
 
 Commitment - I have worked 6 days a week for the past 4 years, in doing so this shows my enthusiasm and my work ethic towards getting the job done. 
 
@@ -41,5 +42,7 @@ Jack Petchey award for tennis - The money I received for this I decided to put i
 ## Hobbies
 Skiing 
 Weightlifting - Helpful when it comes to moving things in the office 
-Football - Always looking for players for 7s side  
+Football - Always looking for players for 7s side 
+Gaming
+
 
