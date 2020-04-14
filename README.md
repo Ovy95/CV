@@ -1,7 +1,7 @@
 ## Jack Overton
 <div align="center">
 
-[Projects](#ProjectsSection) | [Skills](#Skills) | [Education](#Education) | [Work Experience](#WorkExperience) | [Hobbies](#Hobbies) 
+[Projects](#Projects-Section) | [Skills](#Skills) | [Education](#Education) | [Work Experience](#Work-Experience) | [Hobbies](#Hobbies) 
 </div>
 
 As of graduating the 12-week intensive Makers course, I feel, I have grown as a person and as a developer. I feel more confident in my skills as a Junior full stack Developer and ready to expand and grow my knowledge. One thing I feel, I enjoyed learning about was creating tests, to surpass effective and clean code. Among improving my skills, I learned a lot of coding principles, like DRY, SRP, OOP, MVC and much more.
