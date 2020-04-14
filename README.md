@@ -1,4 +1,9 @@
 ## Jack Overton
+<div align="center">
+
+[Projects](#Projects Section) | [Skills](#Skills) | [Education](#Education) | [Work Experience](#Work Experience) | [Hobbies](#Hobbies) 
+
+</div>
 
 As of graduating the 12-week intensive Makers course, I feel, I have grown as a person and as a developer. I feel more confident in my skills as a Junior full stack Developer and ready to expand and grow my knowledge. One thing I feel, I enjoyed learning about was creating tests, to surpass effective and clean code. Among improving my skills, I learned a lot of coding principles, like DRY, SRP, OOP, MVC and much more.
 
@@ -35,24 +40,21 @@ RSpec, Jasmine, Jest, Enzyme
 
 #### Havering College (2011 - 2013)
 
-Btec Communication & Employability Skills for IT (Merit)
-This included a module about Cisco Exploration Network Fundamentals   
+Btec Communication & Employability Skills for IT (Merit)<br>
+This included a module about Cisco Exploration Network Fundamentals<br>   
 
 ICT Double Applied A2   Practitioners ( CD )
 
 ## Work Experience
 
-A Elfes Ltd (July, 2013 - June, 2018)
+A Elfes Ltd (July, 2013 - June, 2018) <br>
 This was my first full-time job which was for a Stonemasonry company. I learned a lot of adaptable skills from this trade mention above in my skills.
 
-Mk Memorials (November, 2011 - December, 2019)
+Mk Memorials (November, 2011 - December, 2019) <br>
 This my first job which I only used to work Saturdays, while studying at college. I then went full time hereafter leaving A Elfes ltd.
 
 ## Hobbies
-Skiing
-
-Weightlifting
-
-Football
-
+Skiing<br>
+Weightlifting<br>
+Football<br>
 Tennis - Which I got a Jack Petchey award for, the money I received for this I decided to put it towards getting clothing with our club's name on the back for match days and practices.
