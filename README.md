@@ -50,6 +50,6 @@ This my first job which I only used to work Saturdays, while studying at college
 
 ## Hobbies
 Skiing
-Weightlifting   
-Football 
+Weightlifting
+Football
 Tennis - Which I got a Jack Petchey award for, the money I received for this I decided to put it towards getting clothing with our club's name on the back for match days and practices.
