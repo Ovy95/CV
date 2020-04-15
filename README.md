@@ -11,6 +11,12 @@ I'm currently looking for a career in Software Development in London or Essex ar
 
 ## Projects Section 
 
+| Project Name  | Description   |Technolgies Used  |
+| ------------- | ------------- | -------------    | 
+| mnemonic    | A single-page web app game, based on the classic memory / matching cards game.  | Build using: JavaScript & React.js <br> Testing: Jest & Enzyme <br> Deployed with: Heroku,Travis CL & coveralls |
+| aceBook-PingPong  | Recreation of Facebook with of the some features like being about to add photos and having a profile. Create posts update, edit and delete posts.  | Front-end : Html & Css using Bootstrap <br>  Back-end Ruby, Ruby on rails, PostgreSQL <br>Testing: Rspec , SimpleCov Code Climate, Travis Cl | 
+| Project Name  | A web application     |Technolgies Used  |
+| Project Name  | Description   |Technolgies Used  |
 
 
 ## Skills
