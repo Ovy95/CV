@@ -15,8 +15,8 @@ I'm currently looking for a career in Software Development in London or Essex ar
 | ------------- | ------------- | -------------    | 
 | mnemonic    | A single-page web app game, based on the classic memory / matching cards game.  | Build using: JavaScript & React.js <br> Testing: Jest & Enzyme <br> Deployed with: Heroku,Travis CL & coveralls |
 | aceBook-PingPong  | Recreation of Facebook with of the some features like being about to add photos and having a profile. Create posts update, edit and delete posts.  | Front-end : Html & Css using Bootstrap <br>  Back-end Ruby, Ruby on rails, PostgreSQL <br>Testing: Rspec , SimpleCov Code Climate, Travis Cl | 
-| Project Name  | A web application     |Technolgies Used  |
-| Project Name  | Description   |Technolgies Used  |
+|Bank Tec test | Shows understanding of the TDD process used to solve the problem, along with other coding princlpes learnt while at Makers. |Built using : Ruby <br> Testing: Rspec, Rubocop |
+
 
 
 ## Skills
@@ -36,11 +36,11 @@ I'm currently looking for a career in Software Development in London or Essex ar
 
 #### Makers Academy (January 2020 to April 2020)
 
-Independent learning
-problem-solving
-OOP, TDD, MVC, DDD
-Agile/XP, pair programming, 
-Ruby, Rails, JavaScript, React
+Independent learning <br>
+problem-solving <br>
+OOP, TDD, MVC, DDD <br>
+Agile/XP, pair programming, <br> 
+Ruby, Rails, JavaScript, React <br>
 RSpec, Jasmine, Jest, Enzyme
 
 #### Havering College (2011 - 2013)
