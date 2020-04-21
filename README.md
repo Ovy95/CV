@@ -16,6 +16,7 @@ I'm currently looking for a career in Software Development in London or Essex ar
 | mnemonic    | A single-page web app game, based on the classic memory / matching cards game.  | Build using: JavaScript & React.js <br> Testing: Jest & Enzyme <br> Deployed with: Heroku,Travis CL & coveralls |
 | aceBook-PingPong  | Recreation of Facebook with of the some features like being about to add photos and having a profile. Create posts update, edit and delete posts.  | Front-end : Html & Css using Bootstrap <br>  Back-end Ruby, Ruby on rails, PostgreSQL <br>Testing: Rspec , SimpleCov Code Climate, Travis Cl | 
 |Bank Tec test | Shows understanding of the TDD process used to solve the problem, along with other coding princlpes learnt while at Makers. |Built using : Ruby <br> Testing: Rspec, Rubocop |
+| Thermostat | This was our first JavaScript project at Makers. It was to create the logic for a thermostat in Js being able to interact with it increasing and decreasing the temperature. This included having a min and max temperature as well as power-saving modes which would also restrict temperatures. Along with this, there is a Weather app Api which by default gets the current temperature in London, this can be changed by using the search box to enter in another location to get the temperature of that location. | JavaScript, Jasmine, Open Weather app Api     | 
 
 
 
