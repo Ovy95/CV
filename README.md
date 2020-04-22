@@ -67,13 +67,13 @@ This was my first full-time job which was for a Stonemasonry company. I learned 
 **Mk Memorials** (November, 2011 - December, 2019) <br>
 This was my first ever job, which I only used to work Saturdays, while studying at college. I then went full time hereafter leaving A Elfes ltd.
 
-## Hobbies
-- **Skiing**<br>
-- **Weightlifting**<br> One of my main passions which I have learned so much from here are some that spring to mind, 
+## Hobbies <br>
+**Weightlifting**<br> One of my main passions which I have learned so much from here are some that spring to mind, 
 
-Goalsetting - This could be simpling losing weight to look good for the summer or improving strength on a lift. 
-Discipline  - 'Eating clean' sticking to set amount of calories per day to help your body function in terms of how you want it to, an example of this is eating fewer calories to lose weight. Getting up earlier before work in the mornings to go to the gym.
-Patience - If something isn't working know when to mix up the workouts or the diet, or to stick with the process and push that bit harder in training.
+- Goalsetting - This could be simpling losing weight to look good for the summer or improving strength on a lift. In doing so creating a meal plan and a training plan to achieve this.<br>
+- Discipline  - 'Eating clean' sticking to set amount of calories per day to help your body function in terms of how you want it to, an example of this is eating fewer calories to lose weight. Another example is  getting up earlier before work in the mornings to go to the gym, and pushing yourself on the days your not feeling it.<br>
+- Patience - Sticking with the training plans and diets for weeks to see if there is a change, not getting frustrated after a couple of weeks due to not seeing any changes, but instead alter plan slightly then repeat the process until change does occur. 
 
-- **Football**<br> - Having played in many a 5 and 7 a side teams. Being a team player and having good communication key, when it comes to team sports. Also, I feel I developer leadership skills when the team isn't playing well or you need to grind out the last 5 minutes, you need that in a team someone to carry the group around you and step up. 
-- **Tennis** - Which I got a Jack Petchey award for, the money I received for this I decided to put it towards getting clothing with our club's name on the back for match days and practices.
+**Football**<br>  Having played in many a 5 and 7 a side teams. Being a team player and having good communication key, when it comes to team sports. Also, I feel I developer leadership skills when the team isn't playing well or you need to grind out the last 5 minutes, you need that in a team someone to carry the group around you and step up. <br>
+<br>
+**Tennis** <br>  Which I got a Jack Petchey award for, the money I received for this I decided to put it towards getting clothing with our club's name on the back for match days and practices.
