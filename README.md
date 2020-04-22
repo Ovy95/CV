@@ -68,7 +68,7 @@ This was my first full-time job which was for a Stonemasonry company. I learned 
 This was my first ever job, which I only used to work Saturdays, while studying at college. I then went full time hereafter leaving A Elfes ltd.
 
 ## Hobbies <br>
-**Weightlifting**<br> One of my main passions which I have learned so much from here are some that spring to mind, 
+**Weightlifting**<br> One of my main passions which I have learned so much from here are some that spring to mind.
 
 - Goalsetting - This could be simpling losing weight to look good for the summer or improving strength on a lift. In doing so creating a meal plan and a training plan to achieve this.<br>
 - Discipline  - 'Eating clean' sticking to set amount of calories per day to help your body function in terms of how you want it to, an example of this is eating fewer calories to lose weight. Another example is  getting up earlier before work in the mornings to go to the gym, and pushing yourself on the days your not feeling it.<br>
