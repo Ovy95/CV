@@ -19,7 +19,7 @@ I'm currently looking for a career in Software Development in London or Essex ar
 | aceBook-PingPong  | A recreation of Facebook ,some features include adding photos and having a profile. Create posts update, edit and delete posts.  | Front-end : Html & Css using Bootstrap <br>  Back-end Ruby, Ruby on rails, PostgreSQL <br>Testing: Rspec , SimpleCov Code Climate, Travis Cl | 
 |Bank Tec test | Shows understanding of the TDD process used to solve the problem, along with other coding principles learnt while at Makers. |Built using : Ruby <br> Testing: Rspec, Rubocop |
 | Thermostat | This was our first JavaScript project at Makers. It was to create the logic for a thermostat in Js being able to interact with it increasing and decreasing the temperature. This included having a min and max temperature as well as power-saving modes which would also restrict temperatures. Along with this, there is a Weather app Api which by default gets the current temperature in London, this can be changed by using the search box to enter in another location to get the temperature of that location. | JavaScript, Jasmine, Open Weather app Api     | 
-|Gilded Rose tech test| The gilded-rose kata is designed to practice rescuing legacy code safely by writing a robust characterization test, refactoring the code into well-designed units, and then backfilling those units with more focused tests. Along the ability to implement new features.  | Javascript, Jest
+|Gilded Rose tech test| The gilded-rose kata is designed to practice rescuing legacy code safely by writing a robust characterisation test, refactoring the code into well-designed units, and then backfilling those units with more focused tests. Along the ability to implement new features.  | Javascript, Jest
 
 
 
