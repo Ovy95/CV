@@ -37,7 +37,7 @@ I'm currently looking for a career in Software Development in London or Essex ar
 
 **Working under pressure** - This skill developed from my previous job, in terms of being about to get the product done in a short time frame especially if deliveries were late, or around the busy times which are, 1 year anniversaries or public holidays like Mother's or Father's day and even religious holidays like Christmas or Rosh Hashanah. 
  Also the ability in terms of working under pressure, some customers would be graveside and watch you fix their stone they had brought, this added to the pressure. One wrong lift could chip the stone and it would have to be sent back to be repaired, which would have been a day wasted, along with all the time spent prepping it. The cost of some of these stones was in the ten thousand cost brackets, which also added to the pressure.
- An example of this was the final project weeks we had one day, due to easter put pressure on before we started, but because of our excellent planning and effective communication were able to come up with a polished finished project.
+ An example of this was the final project weeks we had one day less, due to easter holidays which put pressure on before we started, but because of our excellent planning and effective communication were able to come up with a polished finished project.
 
 
 ## Education
