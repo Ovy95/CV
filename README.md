@@ -1,7 +1,7 @@
 ## Jack Overton
 <div align="center">
-
-[Projects](#Projects-Section) | [Skills](#Skills) | [Education](#Education) | [Work Experience](#Work-Experience) | [Hobbies](#Hobbies) 
+ 
+[Projects](#Projects-Section) | [Skills](#Skills) | [Education](#Education) | [Work Experience](#Work-Experience) | [Hobbies](#Hobbies) | [LinkedIn](https://www.linkedin.com/in/jack-overton-40b7931a2/)
 </div>
 
 Crafting stone to Crafting Code, a Stonemason turned Software Developer.
@@ -15,11 +15,11 @@ I'm currently looking for a career in Software Development in London or Essex ar
 
 | Project Name  | Description   |Technolgies Used  |
 | ------------- | ------------- | -------------    | 
-| mnemonic    | A single-page web app game, based on the classic memory / matching cards game.  | Build using: JavaScript & React.js <br> Testing: Jest & Enzyme <br> Deployed with: Heroku,Travis CL & coveralls |
-| aceBook-PingPong  | A recreation of Facebook ,some features include adding photos and having a profile. Create posts update, edit and delete posts.  | Front-end : Html & Css using Bootstrap <br>  Back-end Ruby, Ruby on rails, PostgreSQL <br>Testing: Rspec , SimpleCov Code Climate, Travis Cl | 
+| [mnemonic](https://github.com/Ovy95/mnemonic)    | A single-page web app game, based on the classic memory / matching cards game.  | Build using: JavaScript & React.js <br> Testing: Jest & Enzyme <br> Deployed with: Heroku,Travis CL & coveralls |
+| [aceBook-PingPong](https://github.com/Peter2-71828/aceBook-PingPong)  | A recreation of Facebook ,some features include adding photos and having a profile. Create posts update, edit and delete posts.  | Front-end : Html & Css using Bootstrap <br>  Back-end Ruby, Ruby on rails, PostgreSQL <br>Testing: Rspec , SimpleCov Code Climate, Travis Cl | 
 |Key Store value | The Key store value was a project given to me by a mentor, and also my first project created using Golang. It shows how to store arbitrary data behind an http interface. |Built using : Golang <br> Testing: (Currently being worked on using Golang) |
-| Thermostat | This was our first JavaScript project at Makers. It was to create the logic for a thermostat in Js being able to interact with it increasing and decreasing the temperature. This included having a min and max temperature as well as power-saving modes which would also restrict temperatures. Along with this, there is a Weather app Api which by default gets the current temperature in London, this can be changed by using the search box to enter in another location to get the temperature of that location. | JavaScript, Jasmine, Open Weather app Api     | 
-|Gilded Rose tech test| The gilded-rose kata is designed to practice rescuing legacy code safely by writing a robust characterisation test, refactoring the code into well-designed units, and then backfilling those units with more focused tests. Along the ability to implement new features.  | Javascript, Jest
+| [Thermostat](https://github.com/Ovy95/Thermostat) | This was our first JavaScript project at Makers. It was to create the logic for a thermostat in Js being able to interact with it increasing and decreasing the temperature. This included having a min and max temperature as well as power-saving modes which would also restrict temperatures. Along with this, there is a Weather app Api which by default gets the current temperature in London, this can be changed by using the search box to enter in another location to get the temperature of that location. | JavaScript, Jasmine, Open Weather app Api     | 
+|[Gilded Rose tech test](https://github.com/Ovy95/Gilded-rose-tech-test)| The gilded-rose kata is designed to practice rescuing legacy code safely by writing a robust characterisation test, refactoring the code into well-designed units, and then backfilling those units with more focused tests. Along the ability to implement new features.  | Javascript, Jest
 
 
 
